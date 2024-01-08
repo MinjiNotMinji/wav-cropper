@@ -1,3 +1,7 @@
 *.o
 *.bin
 *.lock
+
+# replit
+.replit
+replit.nix
